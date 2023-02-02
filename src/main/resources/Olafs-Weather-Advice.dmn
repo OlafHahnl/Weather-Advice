@@ -17,6 +17,9 @@
     <dmn:itemComponent id="_77F8D901-2FE1-4EA9-8518-E0C93ABD3997" name="stormAlert" isCollection="false">
       <dmn:typeRef>boolean</dmn:typeRef>
     </dmn:itemComponent>
+    <dmn:itemComponent id="_7A09E2E9-3EFA-40DF-B3DC-589B61C0F972" name="location" isCollection="false">
+      <dmn:typeRef>string</dmn:typeRef>
+    </dmn:itemComponent>
   </dmn:itemDefinition>
   <dmn:inputData id="_8EF78BB9-E46A-4E8D-85DD-EEAE1480863C" name="Name">
     <dmn:extensionElements/>
